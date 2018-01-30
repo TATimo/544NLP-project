@@ -1,0 +1,221 @@
+0 : Zero
+1 : Un
+2 : Deux
+3 : Trois
+4 : Quatre
+5 : Cinq
+6 : Six
+7 : Sept
+8 : Huit
+9 : Neuf
+10 : Dix
+11 : Onze
+12 : Douze
+13 : Treize
+14 : Quatorze
+15 : Quinze
+16 : Seize
+17 : Dix sept
+18 : Dix huit
+19 : Dix neuf
+20 : Vingt
+21 : Vingt et un
+22 : Vingt deux
+23 : Vingt trois
+24 : Vingt quatre
+25 : Vingt cinq
+26 : Vingt six
+27 : Vingt sept
+28 : Vingt huit
+29 : Vingt neuf
+30 : Trente
+31 : Trente et un
+32 : Trente deux
+33 : Trente trois
+34 : Trente quatre
+35 : Trente cinq
+36 : Trente six
+37 : Trente sept
+38 : Trente huit
+39 : Trente neuf
+40 : quarante
+41 : quarante et un
+42 : quarante deux
+43 : quarante trois
+44 : quarante quatre
+45 : quarante cinq
+46 : quarante six
+47 : quarante sept
+48 : quarante huit
+49 : quarante neuf
+50 : cinquante
+51 : cinquante et un
+52 : cinquante deux
+53 : cinquante trois
+54 : cinquante quatre
+55 : cinquante cinq
+56 : cinquante six
+57 : cinquante sept
+58 : cinquante huit
+59 : cinquante neuf
+60 : Soixante
+61 : Soixante et un
+62 : Soixante deux
+63 : Soixante trois
+64 : Soixante quatre
+65 : Soixante cinq
+66 : Soixante six
+67 : Soixante sept
+68 : Soixante huit
+69 : Soixante neuf
+70 : Soixante dix
+71 : Soixante et onze
+72 : Soixante douze
+73 : Soixante treize
+74 : Soixante quatorze
+75 :  Soixante quinze
+76 : Soixante seize
+77 : Soixante dix sept
+78 : Soixante dix huit
+79 : Soixante dix neuf
+80 : Quatre vingts
+81 : Quatre vingt un
+82 : Quatre vingt deux
+83 : Quatre vingt trois
+84 : Quatre vingt quatre
+85 : Quatre vingt cinq
+86 : Quatre vingt six
+87 : Quatre vingt sept
+88 : Quatre vingt huit
+89 : Quatre vingt neuf
+90 : Quatre vingt dix
+91 : Quatre vingt onze
+92 : Quatre vingt douze
+93 : Quatre vingt treize
+94 : Quatre vingt quatorze
+95 : Quatre vingt quinze
+96 : Quatre vingt seize
+97 : Quatre vingt dix sept
+98 : Quatre vingt dix huit
+99 : Quatre vingt dix neuf
+100 : cent
+101 : Cent un
+102 : Cent deux
+103 : Cent trois
+104 : Cent quatre
+105 : Cent cinq
+106 : Cent six
+107 : Cent sept
+108 : Cent huit
+109 : Cent neuf
+110 : Cent dix
+111 : Cent Onze
+112 : Cent Douze
+113 : Cent Treize
+114 : Cent Quatorze
+115 : Cent Quinze
+116 : Cent Seize
+117 : Cent Dix sept
+118 : Cent Dix huit
+119 : Cent Dix neuf
+120 : Cent Vingt
+121 : Cent Vingt et un
+122 : Cent Vingt deux
+123 : Cent Vingt trois
+124 : Cent Vingt quatre
+125 : Cent vingt cinq
+126 : Cent Vingt six
+127 : Cent Vingt sept
+128 : Cent Vingt huit
+129 : Cent Vingt neuf
+130 : Cent Trente
+131 : Cent Trente et un
+132 : Cent Trente deux
+133 : Cent Trente trois
+134 : Cent Trente quatre
+135 : Cent Trente cinq
+136 : Cent Trente six
+137 : Cent Trente sept
+138 : Cent Trente huit
+139 : Cent Trente neuf
+140 : Cent quarante
+141 : Cent quarante et un
+142 : Cent quarante deux
+143 : Cent quarante trois
+144 : Cent quarante quatre
+145 : Cent quarante cinq
+146 : Cent quarante six
+147 : Cent quarante sept
+148 : Cent quarante huit
+149 : Cent quarante neuf
+150 : Cent cinquante
+151 : Cent cinquante et un
+152 : Cent cinquante deux
+153 : Cent cinquante trois
+154 : Cent cinquante quatre
+155 : Cent cinquante cinq
+156 : Cent cinquante six
+157 : Cent cinquante sept
+158 : Cent cinquante huit
+159 : Cent cinquante neuf
+160 : Cent Soixante
+161 : Cent Soixante et un
+162 : Cent Soixante deux
+163 : Cent Soixante trois
+164 : Cent Soixante quatre
+165 : Cent Soixante cinq
+166 : Cent Soixante six
+167 : Cent Soixante sept
+168 : Cent Soixante huit
+169 : Cent Soixante neuf
+170 : Cent Soixante dix
+171 : Cent Soixante et onze
+172 : Cent Soixante douze
+173 : Cent Soixante treize
+174 : Cent Soixante quatorze
+175 : Cent soixante quinze
+176 : Cent Soixante seize
+177 : Cent Soixante dix sept
+178 : Cent Soixante dix huit
+179 : Cent Soixante dix neuf
+180 : Cent Quatre vingts
+181 : Cent Quatre vingt un
+182 : Cent Quatre vingt deux
+183 : Cent Quatre vingt trois
+184 : Cent Quatre vingt quatre
+185 : Cent Quatre vingt cinq
+186 : Cent Quatre vingt six
+187 : Cent Quatre vingt sept
+188 : Cent Quatre vingt huit
+189 : Cent Quatre vingt neuf
+190 : Cent Quatre vingt dix
+191 : Cent Quatre vingt onze
+192 : Cent Quatre vingt douze
+193 : Cent Quatre vingt treize
+194 : Cent Quatre vingt quatorze
+195 : Cent Quatre vingt quinze
+196 : Cent Quatre vingt seize
+197 : Cent Quatre vingt dix sept
+198 : Cent Quatre vingt dix huit
+199 : Cent Quatre vingt dix neuf
+200 : Deux cents
+201 : Deux Cent un
+202 : Deux Cent deux
+203 : Deux Cent trois
+204 : Deux Cent quatre
+205 : Deux Cent cinq
+206 : Deux Cent six
+207 : Deux Cent sept
+208 : Deux Cent huit
+209 : Deux Cent neuf
+210 : Deux Cent dix
+250 : Deux cent cinquante
+300 : Trois cent
+350 : Trois cent cinquante
+450 : Quatre cent cinquante
+499 : Quatre cent quatre vingt dix neuf
+500 : Cinq cent
+600 : Six cent
+700 : Sept cent
+800 : Huit cent
+900 : Neuf cent

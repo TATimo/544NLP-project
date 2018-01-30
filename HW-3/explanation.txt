@@ -1,0 +1,17 @@
+For this homework I did a lot of research of feature extraction, and I will list all the feature I extract, although I didn't use all of them due to overfitting.
+
+1: ngram. I use ngram to improve the accuracy of training, initially I take a word and the word before it, also tried trigram which is a set of the overall accuracy goes up a little. However, when I conbine other features, the overall performance is not so good. So I decided to not using it.
+
+2: Length. This feature play a big role is this homework, not much to say, I si mply judge the test case with the average length of each author's text, and it works great!
+
+3: Stopwords. Usually feature extraction will get rid of stopwrods. I tried at first and works ok. However when I combine all the features together, it just not perfrom as I expected. So removed.
+
+4: Punctuation. I remove punctuation for the same reason as stopwords. And it works well overall, thus I keep it for now.
+
+5: Frequent words. I made two sets which contain each author's most frequent words from the training data. And when I do feature extraction, I can judge each word if they belong to any of the most frequent words set, then adjust the weight of new feature.
+
+6: End of the line. I found a 'cheat' way to make the accuracy incredibly high, which is for author b's text, there is always a space for last position. Not sure this is a feature left to us on purpose or un-intentionally. So still pending of using it.
+
+7: Sentiment. NLTK does have its own sentiment analysis toolkit. Like most feature, single usage of sentiment is good, however it will overfitting when all feature come together, and sentiment somehow works really bad.(maybe I use it in a wrong direction) So i remove it.
+
+8: Some interesting thoughts. By using google api web search we can simply just search the input text and read the JSON title to judge the author. It is not hard to implement but since there is no answer from instructors about this usage of api, (piazza not replied) thus I didn't use it due to potential violating rules of this homework.
